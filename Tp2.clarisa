@@ -1,0 +1,34 @@
+<!--escribir un documento html utilizando etiquetas de texto sobre una receta de cocina
+-->
+<h1>Receta  de pure de papa</h1>
+
+
+
+<h5>El puré de patatas es muy popular en las cocinas del norte de Europa</h5>
+
+ <h3>Ingredientes.</h3>
+  <ul>
+     <li> 1kg de papas.</li>
+     <li> 50gr de manteca.</li>
+     <li> 100ml de leche.</li>
+     <li> Nuez moscada.</li>
+     <li> Sal & pimienta.</li>
+  </ul>
+<h3>Ingredients</h3>
+ <ol>
+    <li> Pelar y enjuagar las papas peladas.</li>
+    <li> Cortarlas en trozos grandes y llevarlos a una olla con abundante agua</li>
+    <li> Cocinar las papas hasta que queden tiernas (si se empiezan a deshacer solas, mejor)</li>
+    <li> Escurrirlas y poner en un bowl grande</li>
+    <li> Agregar la manteca cuando las papas aún están calientes e integrar con cuchara o tenedor</li>
+    <li> Agregar la leche y seguir removiendo</li>
+    <li> Agregar sol, pimienta y nuez moscada a gusto</li>
+ </ol>
+<h5>Si desean un resultado más untuoso, pueden agregar crema de leche o una yema de huevo-.</h5>
+    
+ <h5>Experimente y vea que funciona para usted.</h5>
+
+<h3>Almacenamiento</h3>
+
+
+<h5>El pure de papa se mantendra en perfetas condiciones durante hasta 6 meses en el congelador ,sin perder su delicioso sabor y textura.</h5>
